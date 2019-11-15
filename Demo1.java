@@ -1,4 +1,5 @@
 package String;
+//author  subash patil
 
 public class Demo1 {
 
@@ -6,6 +7,7 @@ public class Demo1 {
 		String S1 = "Hello";
 		String S2 = new String("Bangalore");
 		System.out.println(S1+" "+S2);
+		System.out.println(S1);
 	}
 }
 
